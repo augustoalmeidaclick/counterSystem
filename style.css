@@ -2,7 +2,9 @@
   font-family: Helvetica, sans-serif;
   box-sizing: border-box;
 }
-
+a {
+  color: #fff;
+}
 body {
   background: blue;
   color: #222;
